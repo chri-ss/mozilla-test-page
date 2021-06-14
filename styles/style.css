@@ -1,0 +1,24 @@
+html{
+    font-size: 10px;
+    font-family: "Noto Sans";
+    background-color: #8db1d3;
+    text-align: center;
+}
+
+h1 {
+    font-size: 60px;
+    text-align: center;
+}
+
+p, li {
+    font-size: 16px;
+    line-height: 2;
+    letter-spacing: 1px;
+}
+
+img[src] {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
